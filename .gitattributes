@@ -2,10 +2,6 @@
 # bash gets confused if you pass in .sh files from windows
 # This breaks Vagrant for some users.
 *.sh text eol=lf
-*.bash text eol=lf
-*.py text=auto eol=lf
-_* text=auto eol=lf
-waf-* text=auto eol=lf
 
 *.bin -diff
 *.elf -diff
