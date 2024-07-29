@@ -3,6 +3,7 @@
 # This breaks Vagrant for some users.
 *.sh text eol=lf
 *.bash text eol=lf
+* text=auto eol=lf
 
 *.bin -diff
 *.elf -diff
