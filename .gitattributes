@@ -5,6 +5,7 @@
 *.bash text eol=lf
 *.py text=auto eol=lf
 _* text=auto eol=lf
+waf-* text=auto eol=lf
 
 *.bin -diff
 *.elf -diff
